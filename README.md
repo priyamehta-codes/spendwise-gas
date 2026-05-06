@@ -7,7 +7,7 @@
 -->
 
 <div align="center">
-
+ 
 # Spendwise
 
 **Track your expenses and income — right inside your Google account.**
